@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+}
+
+/* Header Section */
+.header {
+    width: auto;
+    height: 750px;
+    background: #FFF8F3;
+    text-align: right;
+    background: url(../images/banner/banner2.png);
+    background-repeat: no-repeat;
+    padding-top: 216px;
+    padding-left:  845px;
+    padding-right:  230px;
+}
+
+.header-title {
+    font-weight: 700px;
+    font-size: 65px;
+    color: #151414;
+    margin-bottom: 10px;
+}
+.header-para {
+    font-weight: 400px;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 25px;
+}
+.btn-primary{
+        color: #FFFFFF;
+        font-weight: 700;
+        font-size: 20px;
+        border: 0px;
+        /* padding: 18px 35px; */
+        height: 50px;
+        background: #FD6E0A;
+        border-radius: 5px;
+}
+
+/* Failure Section */
+
+.failure {
+    display: flex;
+    /* padding: 130px; */
+    padding-left: 206px;
+    padding-right: 322px;
+}
+.fail-description {
+    padding-top: 250px;
+    padding-left: 87px; 
+}
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 25px;
+}
+.failure-para {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 25px;
+}
+li {
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+/* My plans Section */
+
+.plan-section {
+    text-align: center;
+    padding: 137px 230px;
+}
+
+.plans-container {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan-title {
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    color: #151414;
+}
+
+.plan-description {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+}
+
+/* Call now Section */
+
+.call-section {
+    padding: 0px 230px;
+}
+.pic-shadow {
+    background: url(../images/watch.png);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.call-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.call-now {
+    padding: 59px;
+    padding-right: 617px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.btn-secondary {
+    color: #F15B22;
+    font-weight: 600px;
+    font-size: 20px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+}
+
+/* Footer Section */
+
+
